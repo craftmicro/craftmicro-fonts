@@ -5,6 +5,727 @@
         "config_modified": 1654420228.6623924,
         "config_size": 81
     },
+    "details": {
+        "alagard": {
+            "bytes": 1284,
+            "labels": [
+                "serif",
+                "script",
+                "small",
+                "regular"
+            ]
+        },
+        "alkhemikal": {
+            "bytes": 985,
+            "labels": [
+                "serif",
+                "script",
+                "small",
+                "regular"
+            ]
+        },
+        "alpha_beta": {
+            "bytes": 285,
+            "labels": [
+                "sans-serif",
+                "tiny",
+                "regular"
+            ]
+        },
+        "athens_classic": {
+            "bytes": 1295,
+            "labels": [
+                "sans-serif",
+                "medium",
+                "regular"
+            ]
+        },
+        "bangalore": {
+            "bytes": 717,
+            "labels": [
+                "sans-serif",
+                "script",
+                "tiny",
+                "regular"
+            ]
+        },
+        "bit03": {
+            "bytes": 658,
+            "labels": [
+                "sans-serif",
+                "shadow",
+                "tiny",
+                "regular"
+            ]
+        },
+        "bit1": {
+            "bytes": 1796,
+            "labels": [
+                "sans-serif",
+                "tiny",
+                "regular"
+            ]
+        },
+        "bit_out": {
+            "bytes": 2044,
+            "labels": [
+                "sans-serif",
+                "outline",
+                "tiny",
+                "regular"
+            ]
+        },
+        "bleo": {
+            "bytes": 1355,
+            "labels": [
+                "serif",
+                "cute",
+                "round",
+                "small",
+                "regular"
+            ]
+        },
+        "blocktopia": {
+            "bytes": 968,
+            "labels": [
+                "sans-serif",
+                "heavy",
+                "small"
+            ]
+        },
+        "celticbit": {
+            "bytes": 1064,
+            "labels": [
+                "sans-serif",
+                "script",
+                "small",
+                "regular"
+            ]
+        },
+        "celticbit_thin": {
+            "bytes": 929,
+            "labels": [
+                "sans-serif",
+                "script",
+                "thin",
+                "small"
+            ]
+        },
+        "celticbit_tiny": {
+            "bytes": 834,
+            "labels": [
+                "sans-serif",
+                "script",
+                "small",
+                "regular"
+            ]
+        },
+        "chunkydunk": {
+            "bytes": 966,
+            "labels": [
+                "sans-serif",
+                "heavy",
+                "small"
+            ]
+        },
+        "chunkydunk_outline": {
+            "bytes": 1372,
+            "labels": [
+                "sans-serif",
+                "heavy",
+                "outline",
+                "small"
+            ]
+        },
+        "cloude": {
+            "bytes": 801,
+            "labels": [
+                "sans-serif",
+                "small",
+                "regular"
+            ]
+        },
+        "cloude_bold": {
+            "bytes": 877,
+            "labels": [
+                "sans-serif",
+                "heavy",
+                "small"
+            ]
+        },
+        "cyborgsister": {
+            "bytes": 791,
+            "labels": [
+                "sans-serif",
+                "small",
+                "regular"
+            ]
+        },
+        "cweb_small": {
+            "bytes": 602,
+            "labels": [
+                "sans-serif",
+                "tiny",
+                "regular"
+            ]
+        },
+        "cweb_large": {
+            "bytes": 592,
+            "labels": [
+                "sans-serif",
+                "tiny",
+                "regular"
+            ]
+        },
+        "digitaldrip": {
+            "bytes": 1052,
+            "labels": [
+                "sans-serif",
+                "cartoon",
+                "italic",
+                "outline",
+                "small",
+                "regular"
+            ]
+        },
+        "digitaldisco": {
+            "bytes": 1041,
+            "labels": [
+                "sans-serif",
+                "round",
+                "small",
+                "regular"
+            ]
+        },
+        "digitaldisco_thin": {
+            "bytes": 930,
+            "labels": [
+                "sans-serif",
+                "round",
+                "thin",
+                "small"
+            ]
+        },
+        "doublehomicide": {
+            "bytes": 1031,
+            "labels": [
+                "sans-serif",
+                "horror",
+                "hand",
+                "small",
+                "regular"
+            ]
+        },
+        "edit_undo_line": {
+            "bytes": 2481,
+            "labels": [
+                "sans-serif",
+                "decorative",
+                "heavy",
+                "medium"
+            ]
+        },
+        "emoticomic": {
+            "bytes": 808,
+            "labels": [
+                "sans-serif",
+                "hand",
+                "cartoon",
+                "small",
+                "regular"
+            ]
+        },
+        "enchantedsword": {
+            "bytes": 844,
+            "labels": [
+                "serif",
+                "script",
+                "heavy",
+                "small"
+            ]
+        },
+        "grand9k": {
+            "bytes": 691,
+            "labels": [
+                "sans-serif",
+                "small",
+                "regular"
+            ]
+        },
+        "grapesoda": {
+            "bytes": 999,
+            "labels": [
+                "sans-serif",
+                "cartoon",
+                "heavy",
+                "small"
+            ]
+        },
+        "greenscreen": {
+            "bytes": 929,
+            "labels": [
+                "serif",
+                "heavy",
+                "small"
+            ]
+        },
+        "hachicro": {
+            "bytes": 937,
+            "labels": [
+                "sans-serif",
+                "outline",
+                "small",
+                "regular"
+            ]
+        },
+        "heinzheinrich": {
+            "bytes": 1353,
+            "labels": [
+                "serif",
+                "gothic",
+                "decorative",
+                "small",
+                "regular"
+            ]
+        },
+        "hydratinglip": {
+            "bytes": 1194,
+            "labels": [
+                "sans-serif",
+                "horror",
+                "decorative",
+                "heavy",
+                "small"
+            ]
+        },
+        "infernalda": {
+            "bytes": 978,
+            "labels": [
+                "serif",
+                "horror",
+                "decorative",
+                "heavy",
+                "small"
+            ]
+        },
+        "jorolks": {
+            "bytes": 1464,
+            "labels": [
+                "sans-serif",
+                "shadow",
+                "decorative",
+                "fat",
+                "small"
+            ]
+        },
+        "kiwisoda": {
+            "bytes": 1200,
+            "labels": [
+                "sans-serif",
+                "cartoon",
+                "hand",
+                "heavy",
+                "small"
+            ]
+        },
+        "lilian": {
+            "bytes": 1126,
+            "labels": [
+                "sans-serif",
+                "heavy",
+                "small"
+            ]
+        },
+        "massive": {
+            "bytes": 991,
+            "labels": [
+                "sans-serif",
+                "heavy",
+                "extended",
+                "futuristic",
+                "small"
+            ]
+        },
+        "megan_serif": {
+            "bytes": 285,
+            "labels": [
+                "serif",
+                "tiny",
+                "regular"
+            ]
+        },
+        "misterpixel": {
+            "bytes": 1016,
+            "labels": [
+                "sans-serif",
+                "small",
+                "regular"
+            ]
+        },
+        "nokia_cellphone": {
+            "bytes": 725,
+            "labels": [
+                "sans-serif",
+                "condensed",
+                "heavy",
+                "small"
+            ]
+        },
+        "owrekynge": {
+            "bytes": 1064,
+            "labels": [
+                "serif",
+                "gothic",
+                "heavy",
+                "decorative",
+                "small"
+            ]
+        },
+        "pc_senior": {
+            "bytes": 865,
+            "labels": [
+                "serif",
+                "heavy",
+                "tiny"
+            ]
+        },
+        "pixelatedpusab": {
+            "bytes": 1300,
+            "labels": [
+                "sans-serif",
+                "cartoon",
+                "fat",
+                "round",
+                "small"
+            ]
+        },
+        "pixeloidsans": {
+            "bytes": 724,
+            "labels": [
+                "sans-serif",
+                "small",
+                "regular"
+            ]
+        },
+        "pixeloidsans_bold": {
+            "bytes": 784,
+            "labels": [
+                "sans-serif",
+                "heavy",
+                "small"
+            ]
+        },
+        "pixelplay": {
+            "bytes": 881,
+            "labels": [
+                "serif",
+                "small",
+                "regular"
+            ]
+        },
+        "pixelpoiiz": {
+            "bytes": 880,
+            "labels": [
+                "serif",
+                "hand",
+                "cute",
+                "tiny",
+                "regular"
+            ]
+        },
+        "pixelsix": {
+            "bytes": 591,
+            "labels": [
+                "sans-serif",
+                "tiny",
+                "regular"
+            ]
+        },
+        "pixelsix_caps": {
+            "bytes": 568,
+            "labels": [
+                "sans-serif",
+                "tiny",
+                "regular"
+            ]
+        },
+        "pixelsix_capscond": {
+            "bytes": 550,
+            "labels": [
+                "sans-serif",
+                "condensed",
+                "tiny",
+                "regular"
+            ]
+        },
+        "pixel_arial_11": {
+            "bytes": 839,
+            "labels": [
+                "sans-serif",
+                "heavy",
+                "small"
+            ]
+        },
+        "pixel_berry": {
+            "bytes": 796,
+            "labels": [
+                "sans-serif",
+                "small",
+                "regular"
+            ]
+        },
+        "pixel_cowboy": {
+            "bytes": 1017,
+            "labels": [
+                "serif",
+                "western",
+                "small",
+                "regular"
+            ]
+        },
+        "pixel_love": {
+            "bytes": 730,
+            "labels": [
+                "sans-serif",
+                "script",
+                "tiny",
+                "regular"
+            ]
+        },
+        "pixel_sleigh": {
+            "bytes": 868,
+            "labels": [
+                "serif",
+                "small",
+                "regular"
+            ]
+        },
+        "pixel_western": {
+            "bytes": 1225,
+            "labels": [
+                "serif",
+                "western",
+                "decorative",
+                "heavy",
+                "small"
+            ]
+        },
+        "pix_chicago": {
+            "bytes": 830,
+            "labels": [
+                "sans-serif",
+                "heavy",
+                "small"
+            ]
+        },
+        "plopdump": {
+            "bytes": 808,
+            "labels": [
+                "sans-serif",
+                "cartoon",
+                "heavy",
+                "small"
+            ]
+        },
+        "plopdump_outline": {
+            "bytes": 1136,
+            "labels": [
+                "sans-serif",
+                "cartoon",
+                "heavy",
+                "outline",
+                "small"
+            ]
+        },
+        "plopdump_shadow": {
+            "bytes": 936,
+            "labels": [
+                "sans-serif",
+                "cartoon",
+                "heavy",
+                "shadow",
+                "small"
+            ]
+        },
+        "press_start_2p": {
+            "bytes": 825,
+            "labels": [
+                "sans-serif",
+                "heavy",
+                "small"
+            ]
+        },
+        "proggyclean": {
+            "bytes": 789,
+            "labels": [
+                "sans-serif",
+                "console",
+                "small",
+                "regular"
+            ]
+        },
+        "pukeforce": {
+            "bytes": 678,
+            "labels": [
+                "sans-serif",
+                "tiny",
+                "regular"
+            ]
+        },
+        "pumpkin": {
+            "bytes": 739,
+            "labels": [
+                "sans-serif",
+                "hand",
+                "cartoon",
+                "decorative",
+                "tiny",
+                "regular"
+            ]
+        },
+        "quadrunde": {
+            "bytes": 866,
+            "labels": [
+                "sans-serif",
+                "round",
+                "small",
+                "regular"
+            ]
+        },
+        "rainyhearts": {
+            "bytes": 807,
+            "labels": [
+                "cute",
+                "sans-serif",
+                "small",
+                "regular"
+            ]
+        },
+        "sg12": {
+            "bytes": 862,
+            "labels": [
+                "sans-serif",
+                "heavy",
+                "futuristic",
+                "small"
+            ]
+        },
+        "square": {
+            "bytes": 959,
+            "labels": [
+                "sans-serif",
+                "decorative",
+                "square",
+                "small",
+                "regular"
+            ]
+        },
+        "superscript": {
+            "bytes": 844,
+            "labels": [
+                "sans-serif",
+                "script",
+                "heavy",
+                "small"
+            ]
+        },
+        "systematic": {
+            "bytes": 830,
+            "labels": [
+                "sans-serif",
+                "cartoon",
+                "heavy",
+                "small"
+            ]
+        },
+        "tama": {
+            "bytes": 800,
+            "labels": [
+                "sans-serif",
+                "small",
+                "regular"
+            ]
+        },
+        "tama_outline": {
+            "bytes": 1264,
+            "labels": [
+                "sans-serif",
+                "outline",
+                "small",
+                "regular"
+            ]
+        },
+        "tiny": {
+            "bytes": 529,
+            "labels": [
+                "sans-serif",
+                "tiny",
+                "regular"
+            ]
+        },
+        "tinyuni": {
+            "bytes": 982,
+            "labels": [
+                "sans-serif",
+                "small",
+                "regular"
+            ]
+        },
+        "venice_classic": {
+            "bytes": 1177,
+            "labels": [
+                "serif",
+                "script",
+                "decorative",
+                "small",
+                "regular"
+            ]
+        },
+        "westington": {
+            "bytes": 943,
+            "labels": [
+                "serif",
+                "small",
+                "regular"
+            ]
+        },
+        "yetbumbler": {
+            "bytes": 816,
+            "labels": [
+                "sans-serif",
+                "heavy",
+                "small"
+            ]
+        },
+        "yetbumbler_outline": {
+            "bytes": 1116,
+            "labels": [
+                "sans-serif",
+                "heavy",
+                "outline",
+                "small"
+            ]
+        },
+        "yetbumbler_shadow": {
+            "bytes": 924,
+            "labels": [
+                "sans-serif",
+                "heavy",
+                "shadow",
+                "small"
+            ]
+        },
+        "zelda_dx": {
+            "bytes": 824,
+            "labels": [
+                "sans-serif",
+                "hand",
+                "italic",
+                "small",
+                "regular"
+            ]
+        }
+    },
     "labels": {
         "serif": [
             "alagard",

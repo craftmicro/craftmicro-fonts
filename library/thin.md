@@ -8,8 +8,12 @@
 - [cartoon (10)](cartoon.md) | [console (1)](console.md) | [cute (3)](cute.md) | [decorative (10)](decorative.md) | [futuristic (2)](futuristic.md) | [gothic (2)](gothic.md) | [hand (6)](hand.md) | [horror (3)](horror.md) | [italic (2)](italic.md) | [outline (7)](outline.md) | [round (5)](round.md) | [script (10)](script.md) | [shadow (4)](shadow.md) | [square (1)](square.md) | [western (2)](western.md)
 ## celticbit_thin
 
+929 bytes, sans-serif, script, thin, small
+
 [![font preview](previews/celticbit_thin.png?raw=true "celticbit_thin")](/fonts/celticbit_thin.h)
 
 ## digitaldisco_thin
+
+930 bytes, sans-serif, round, thin, small
 
 [![font preview](previews/digitaldisco_thin.png?raw=true "digitaldisco_thin")](/fonts/digitaldisco_thin.h)

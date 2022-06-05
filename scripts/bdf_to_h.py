@@ -503,5 +503,6 @@ def packedbdf(input, output, name):
         'success': True,
         'glyph_count': len(glyphs.values()),
         'line_space': line_space,
-        'cap_height': cap_height
+        'cap_height': cap_height,
+        'bytes': indexsize + datasize
     }

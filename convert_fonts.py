@@ -190,6 +190,11 @@ for font_config_path in font_config_paths:
                 print('    Exception occured generating font. Skipping')
                 print('    ' + metrics['error'])
                 continue
+            if not 'details' in library_config:
+                library_config['details'] = {}
+            if not output_name in library_config['details']:
+                library_config['details'][output_name] = {}
+            library_config['details'][output_name]['bytes'] = metrics['bytes']
 
             # Generate the preview image
             # To do this we call a differnet version of python (because the current script is
@@ -225,6 +230,8 @@ for font_config_path in font_config_paths:
                     library_config['labels'][label] = [output_name]
                 else:
                     library_config['labels'][label].append(output_name)
+            library_config['details'][output_name]['labels'] = config_item['labels']
+            library_config['details'][output_name]['labels'].remove('all')
 
         except Exception as e:
             print('      Exception occured. Skipping')
@@ -263,11 +270,13 @@ for label in library_config['labels']:
     readme.append('# ' + label + '\n')
     readme.extend(index)
     fonts = sorted(library_config['labels'][label])
-    for font in fonts: 
+    for font in fonts:
+        readme.append('## ' + font + '\n')
+        readme.append('{0:,} bytes, {1}\n'.format(library_config['details'][font]['bytes'], ', '.join(library_config['details'][font]['labels'])))
         if os.path.exists(previews + font + '.png'):
-            readme.append('## {0}\n\n[![font preview](previews/{0}.png?raw=true "{0}")]({1})\n'.format(font, '/' + output_folder + '/' + font + '.h'))
+            readme.append('[![font preview](previews/{0}.png?raw=true "{0}")]({1})\n'.format(font, '/' + output_folder + '/' + font + '.h'))
         else:
-            readme.append('## {0}\n\n[No preview image. Click to view file]({1})\n\n'.format(font, '/' + output_folder + '/' + font + '.h'))
+            readme.append('[No preview image. Click to view file]({0})\n\n'.format('/' + output_folder + '/' + font + '.h'))
     if label == 'all':
         f = open(library + 'readme.md', "w")
     else:

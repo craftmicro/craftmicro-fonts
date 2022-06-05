@@ -8,12 +8,18 @@
 - [cartoon (10)](cartoon.md) | [console (1)](console.md) | [cute (3)](cute.md) | [decorative (10)](decorative.md) | [futuristic (2)](futuristic.md) | [gothic (2)](gothic.md) | [hand (6)](hand.md) | [horror (3)](horror.md) | [italic (2)](italic.md) | [outline (7)](outline.md) | [round (5)](round.md) | [script (10)](script.md) | [shadow (4)](shadow.md) | [square (1)](square.md) | [western (2)](western.md)
 ## doublehomicide
 
+1,031 bytes, sans-serif, horror, hand, small, regular
+
 [![font preview](previews/doublehomicide.png?raw=true "doublehomicide")](/fonts/doublehomicide.h)
 
 ## hydratinglip
 
+1,194 bytes, sans-serif, horror, decorative, heavy, small
+
 [![font preview](previews/hydratinglip.png?raw=true "hydratinglip")](/fonts/hydratinglip.h)
 
 ## infernalda
+
+978 bytes, serif, horror, decorative, heavy, small
 
 [![font preview](previews/infernalda.png?raw=true "infernalda")](/fonts/infernalda.h)
