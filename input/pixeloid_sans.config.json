@@ -1,0 +1,19 @@
+[
+    {
+        "file": "PixeloidSans.ttf",
+        "name": "pixeloidsans",
+        "size": 9,
+        "labels": [
+            "sans-serif"
+        ]
+    },
+    {
+        "file": "PixeloidSans-Bold.ttf",
+        "name": "pixeloidsans_bold",
+        "size": 9,
+        "labels": [
+            "sans-serif",
+            "heavy"
+        ]
+    }
+]

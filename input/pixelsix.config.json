@@ -1,0 +1,27 @@
+[
+    {
+        "file": "pixelsix00.ttf",
+        "name": "pixelsix",
+        "size": 8,
+        "labels": [
+            "sans-serif"
+        ]
+    },
+    {
+        "file": "pixelsix10.ttf",
+        "name": "pixelsix_caps",
+        "size": 8,
+        "labels": [
+            "sans-serif"
+        ]
+    },
+    {
+        "file": "pixelsix14.ttf",
+        "name": "pixelsix_capscond",
+        "size": 8,
+        "labels": [
+            "sans-serif",
+            "condensed"
+        ]
+    }
+]

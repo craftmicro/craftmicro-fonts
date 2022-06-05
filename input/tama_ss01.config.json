@@ -1,0 +1,19 @@
+[
+    {
+        "file": "tama_ss01.TTF",
+        "name": "tama",
+        "size": 17,
+        "labels": [
+            "sans-serif"
+        ]
+    },
+    {
+        "file": "tama_ss01B.TTF",
+        "name": "tama_outline",
+        "size": 17,
+        "labels": [
+            "sans-serif",
+            "outline"
+        ]
+    }
+]

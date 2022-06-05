@@ -1,0 +1,21 @@
+[
+    {
+        "file": "DigitalDisco.ttf",
+        "size": 16,
+        "name": "digitaldisco",
+        "labels": [
+            "sans-serif",
+            "round"
+        ]
+    },
+    {
+        "file": "DigitalDisco-Thin.ttf",
+        "size": 16,
+        "name": "digitaldisco_thin",
+        "labels": [
+            "sans-serif",
+            "round",
+            "thin"
+        ]
+    }
+]

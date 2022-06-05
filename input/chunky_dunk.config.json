@@ -1,0 +1,21 @@
+[
+    {
+        "file": "ChunkyDunk.ttf",
+        "size": 14,
+        "name": "chunkydunk",
+        "labels": [
+            "sans-serif",
+            "heavy"
+        ]
+    },
+    {
+        "file": "ChunkyDunkOutlin.ttf",
+        "size": 14,
+        "name": "chunkydunk_outline",
+        "labels": [
+            "sans-serif",
+            "heavy",
+            "outline"
+        ]
+    }
+]

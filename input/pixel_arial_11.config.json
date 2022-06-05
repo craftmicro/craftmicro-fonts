@@ -1,0 +1,17 @@
+[
+    {
+        "file": "PixelArial11.ttf",
+        "size": 16,
+        "labels": [
+            "sans-serif"
+        ]
+    },
+    {
+        "file": "PixelArial11Bold.ttf",
+        "size": 16,
+        "labels": [
+            "sans-serif",
+            "heavy"
+        ]
+    }
+]

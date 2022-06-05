@@ -1,0 +1,34 @@
+[
+    {
+        "file": "PlopDump.ttf",
+        "name": "plopdump",
+        "size": 10,
+        "labels": [
+            "sans-serif",
+            "cartoon",
+            "heavy"
+        ]
+    },
+    {
+        "file": "PlopDumpOutline.ttf",
+        "name": "plopdump_outline",
+        "size": 10,
+        "labels": [
+            "sans-serif",
+            "cartoon",
+            "heavy",
+            "outline"
+        ]
+    },
+    {
+        "file": "PlopDumpShadow.ttf",
+        "name": "plopdump_shadow",
+        "size": 10,
+        "labels": [
+            "sans-serif",
+            "cartoon",
+            "heavy",
+            "shadow"
+        ]
+    }
+]

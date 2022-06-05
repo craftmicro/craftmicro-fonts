@@ -1,0 +1,30 @@
+[
+    {
+        "file": "celtic-bit.ttf",
+        "size": 14,
+        "name": "celticbit",
+        "labels": [
+            "sans-serif",
+            "script"
+        ]
+    },
+    {
+        "file": "celtic-bit-thin.ttf",
+        "size": 14,
+        "name": "celticbit_thin",
+        "labels": [
+            "sans-serif",
+            "script",
+            "thin"
+        ]
+    },
+    {
+        "file": "celtic-bitty.ttf",
+        "size": 12,
+        "name": "celticbit_tiny",
+        "labels": [
+            "sans-serif",
+            "script"
+        ]
+    }
+]

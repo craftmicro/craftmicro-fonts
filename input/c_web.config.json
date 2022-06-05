@@ -1,0 +1,18 @@
+[
+    {
+        "file": "CWebSmall.ttf",
+        "size": 13,
+        "name": "cweb_small",
+        "labels": [
+            "sans-serif"
+        ]
+    },
+    {
+        "file": "CWebLarge.ttf",
+        "size": 13,
+        "name": "cweb_large",
+        "labels": [
+            "sans-serif"
+        ]
+    }
+]

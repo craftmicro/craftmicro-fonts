@@ -1,0 +1,19 @@
+[
+    {
+        "file": "Cloude_Regular_1.02.ttf",
+        "size": 32,
+        "name": "cloude",
+        "labels": [
+            "sans-serif"
+        ]
+    },
+    {
+        "file": "Cloude_Regular_Bold_1.02.ttf",
+        "size": 32,
+        "name": "cloude_bold",
+        "labels": [
+            "sans-serif",
+            "heavy"
+        ]
+    }
+]

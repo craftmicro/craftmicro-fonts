@@ -1,0 +1,31 @@
+[
+    {
+        "size": 9,
+        "file": "YetBumbler.ttf",
+        "name": "yetbumbler",
+        "labels": [
+            "sans-serif",
+            "heavy"
+        ]
+    },
+    {
+        "size": 9,
+        "file": "YetBumblerOutlin.ttf",
+        "name": "yetbumbler_outline",
+        "labels": [
+            "sans-serif",
+            "heavy",
+            "outline"
+        ]
+    },
+    {
+        "size": 9,
+        "file": "YetBumblerShadow.ttf",
+        "name": "yetbumbler_shadow",
+        "labels": [
+            "sans-serif",
+            "heavy",
+            "shadow"
+        ]
+    }
+]
