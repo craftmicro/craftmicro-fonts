@@ -119,6 +119,8 @@ The script will:
 - The font will be saved with the `name` specified
 - A preview image will be generated, and the font will be added to the library with the specified `label`s
 
+And then:
+
 - This process is repeated for the second `file` in the zip (`prime-time-bold.ttf`)
 - It is important for multi-font zip files to each specify a different name
 
