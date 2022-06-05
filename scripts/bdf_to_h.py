@@ -193,6 +193,21 @@ def packedbdf(input, output, name):
     global bpp_mask, bpp_index, bits_per_pixel, pix_per_byte
     global bits_width, bits_height, bits_xoffset, bits_yoffset, bits_delta
 
+    output_state_bitcount = 0
+    outstr = ''
+    output_state_byte = 0
+    output_state_linelen = 0
+    output_state_bytecount = 0
+    bits_per_pixel = 1
+    bpp_index = 0
+    bpp_mask = 0b00000001
+    pix_per_byte = 8
+    bits_width = 0
+    bits_height = 0
+    bits_xoffset = 0
+    bits_yoffset = 0
+    bits_delta = 0
+
     # Split the filename by dot to get the parts
     filename = path.basename(input)
     fileparts = filename.split('.')
