@@ -2,6 +2,9 @@ import sys
 from PIL import Image, ImageDraw, ImageFont
 import math
 
+bgcolor = tuple(int('81776C'[i:i+2], 16) for i in (0, 2, 4))
+targetwidth = 830
+
 try:
     font_path = sys.argv[1]
     font_size = int(sys.argv[2])
@@ -38,7 +41,7 @@ try:
     text_width, text_height = font.getsize_multiline(text)
     if text_width > 820:
         text_width = 820
-    canvas = Image.new('RGB', (text_width + 10, text_height + 10), "white")
+    canvas = Image.new('RGB', (text_width + 10, text_height + 10), bgcolor)
 except:
     print('Exception creating canvas')
     sys.exit()
@@ -52,14 +55,20 @@ except:
     sys.exit()
 
 try:
-    scale = math.floor(830/canvas.width)
-    print('Scale {0} into {1} goes {2}'.format(canvas.width, 830, scale))
+    scale = math.floor(targetwidth/canvas.width)
     if scale > 1:
         canvas = canvas.resize((canvas.width*scale, canvas.height*scale), resample=Image.Resampling.NEAREST)
 except:
     print('Exception resizing canvas')
 
 try:
-    canvas.save(output_path, "PNG")
+    finalcanvas = Image.new('RGB', (targetwidth, canvas.height), bgcolor)
+    finalcanvas.paste(canvas)
+except:
+    print('Exception changing canvas size')
+
+
+try:
+    finalcanvas.save(output_path, "PNG")
 except:
     print('Exception saving png output')
