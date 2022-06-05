@@ -243,7 +243,9 @@ def append_labels(index, labels, data, exclude):
     styles = []
     for label in labels:
         if label in data and not label in exclude:
-            styles.append('[{0} ({1})]({0}.md)'.format(label, len(data[label])))
+            count = len(data[label])
+            if count > 0:
+                styles.append('[{0} ({1})]({0}.md)'.format(label, count))
     index.append('- ' + ' | '.join(styles))
 
 index = []
