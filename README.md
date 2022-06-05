@@ -2,7 +2,7 @@
 
 WARNING: fonts have not yet been tested. This repo is brand new :)
 
-The fonts in this library are all freeware fonts (freeware, OFL, public domain) that have been sourced from various places and converted to PackedBDF format.
+The fonts in this library are all freeware fonts (freeware, OFL, public domain) that have been sourced from various places and converted to PackedBDF format. The original fonts (incluidng readmes and other bundled files) are in the [input](/input) folder.
 
 ## Browse the fonts
 
