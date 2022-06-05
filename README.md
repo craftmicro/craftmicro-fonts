@@ -8,8 +8,10 @@ PackedDBF is a bitmap font format based on BDF. It is the format supported by th
 
 ## Browse the fonts
 
-To browse the available fonts, visit the [library](/library) folder.
+To browse the available fonts, visit the [library](/library/readme.md) folder.
 
 ## Creating fonts
 
 To create your own BDF fonts, [follow these instructions](convert_fonts.md).
+
+The fonts in this library are created directly from the font zip files by running the `convert_fonts.py` python script. It converts ttf, otf and other font formats to the PackedBDF format, generates a preview image, and adds it to the library folder in the correct categories. This process is still very unstable (depends on well-formatted font files etc). Once it is more stable, the [instructions](convert_fonts.md) will be updated to enable community contributions! 
