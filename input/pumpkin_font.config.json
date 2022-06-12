@@ -6,5 +6,8 @@
         "hand",
         "cartoon",
         "decorative"
-    ]
+    ],
+    "testing": {
+        "result": true
+    }
 }

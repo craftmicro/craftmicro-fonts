@@ -6,7 +6,10 @@
         "labels": [
             "sans-serif",
             "heavy"
-        ]
+        ],
+        "testing": {
+            "result": true
+        }
     },
     {
         "size": 9,
@@ -16,7 +19,11 @@
             "sans-serif",
             "heavy",
             "outline"
-        ]
+        ],
+        "testing": {
+            "result": false,
+            "notes": "All glyphs need to move 1px right"
+        }
     },
     {
         "size": 9,
@@ -26,6 +33,9 @@
             "sans-serif",
             "heavy",
             "shadow"
-        ]
+        ],
+        "testing": {
+            "result": true
+        }
     }
 ]

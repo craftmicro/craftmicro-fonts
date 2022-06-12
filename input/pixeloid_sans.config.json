@@ -5,7 +5,10 @@
         "size": 9,
         "labels": [
             "sans-serif"
-        ]
+        ],
+        "testing": {
+            "result": true
+        }
     },
     {
         "file": "PixeloidSans-Bold.ttf",
@@ -14,6 +17,9 @@
         "labels": [
             "sans-serif",
             "heavy"
-        ]
+        ],
+        "testing": {
+            "result": true
+        }
     }
 ]

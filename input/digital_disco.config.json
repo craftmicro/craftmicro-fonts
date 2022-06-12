@@ -6,7 +6,10 @@
         "labels": [
             "sans-serif",
             "round"
-        ]
+        ],
+        "testing": {
+            "result": true
+        }
     },
     {
         "file": "DigitalDisco-Thin.ttf",
@@ -16,6 +19,9 @@
             "sans-serif",
             "round",
             "thin"
-        ]
+        ],
+        "testing": {
+            "result": true
+        }
     }
 ]

@@ -4,5 +4,8 @@
         "sans-serif",
         "script",
         "heavy"
-    ]
+    ],
+    "testing": {
+        "result": true
+    }
 }

@@ -5,7 +5,11 @@
         "name": "cloude",
         "labels": [
             "sans-serif"
-        ]
+        ],
+        "testing": {
+            "result": false,
+            "notes": "Line spacing is much too large"
+        }
     },
     {
         "file": "Cloude_Regular_Bold_1.02.ttf",
@@ -14,6 +18,10 @@
         "labels": [
             "sans-serif",
             "heavy"
-        ]
+        ],
+        "testing": {
+            "result": false,
+            "notes": "Line spacing is much too large"
+        }
     }
 ]

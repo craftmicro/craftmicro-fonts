@@ -1,6 +1,7 @@
 [
     {
         "file": "PixelArial11.ttf",
+        "name": "pixelarial11",
         "size": 16,
         "labels": [
             "sans-serif"
@@ -8,10 +9,14 @@
     },
     {
         "file": "PixelArial11Bold.ttf",
+        "name": "pixelarial11_bold",
         "size": 16,
         "labels": [
             "sans-serif",
             "heavy"
-        ]
+        ],
+        "testing": {
+            "result": true
+        }
     }
 ]

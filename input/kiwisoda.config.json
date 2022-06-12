@@ -5,5 +5,8 @@
         "cartoon",
         "hand",
         "heavy"
-    ]
+    ],
+    "testing": {
+        "result": true
+    }
 }

@@ -3,5 +3,8 @@
     "labels": [
         "sans-serif",
         "heavy"
-    ]
+    ],
+    "testing": {
+        "result": true
+    }
 }

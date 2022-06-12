@@ -3,5 +3,10 @@
     "name": "tinyuni",
     "labels": [
         "sans-serif"
-    ]
+    ],
+    "testing": {
+        "result": false,
+        "notes": "Twice size (should be 8?)"
+    }
+
 }

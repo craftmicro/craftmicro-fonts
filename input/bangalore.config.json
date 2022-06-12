@@ -3,5 +3,8 @@
     "labels": [
         "sans-serif",
         "script"
-    ]
+    ],
+    "testing": {
+        "result": true
+    }
 }
