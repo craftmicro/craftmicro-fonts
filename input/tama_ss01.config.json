@@ -5,7 +5,10 @@
         "size": 17,
         "labels": [
             "sans-serif"
-        ]
+        ],
+        "testing": {
+            "result": true
+        }
     },
     {
         "file": "tama_ss01B.TTF",
@@ -14,6 +17,9 @@
         "labels": [
             "sans-serif",
             "outline"
-        ]
+        ],
+        "testing": {
+            "result": true
+        }
     }
 ]

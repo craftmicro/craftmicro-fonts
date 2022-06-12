@@ -3,5 +3,8 @@
     "name": "grand9k",
     "labels": [
         "sans-serif"
-    ]
+    ],
+    "testing": {
+        "result": true
+    }
 }

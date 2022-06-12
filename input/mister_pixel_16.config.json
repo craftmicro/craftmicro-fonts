@@ -4,5 +4,8 @@
     "name": "misterpixel",
     "labels": [
         "sans-serif"
-    ]
+    ],
+    "testing": {
+        "result": true
+    }
 }

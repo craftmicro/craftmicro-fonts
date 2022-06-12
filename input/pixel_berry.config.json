@@ -2,5 +2,8 @@
     "size": 16,
     "labels": [
         "sans-serif"
-    ]
+    ],
+    "testing": {
+        "result": true
+    }
 }

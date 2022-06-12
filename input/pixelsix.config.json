@@ -5,7 +5,10 @@
         "size": 8,
         "labels": [
             "sans-serif"
-        ]
+        ],
+        "testing": {
+            "result": true
+        }
     },
     {
         "file": "pixelsix10.ttf",
@@ -13,7 +16,10 @@
         "size": 8,
         "labels": [
             "sans-serif"
-        ]
+        ],
+        "testing": {
+            "result": true
+        }
     },
     {
         "file": "pixelsix14.ttf",
@@ -22,6 +28,9 @@
         "labels": [
             "sans-serif",
             "condensed"
-        ]
+        ],
+        "testing": {
+            "result": true
+        }
     }
 ]

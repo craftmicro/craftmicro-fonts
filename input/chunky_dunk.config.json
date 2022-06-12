@@ -6,7 +6,10 @@
         "labels": [
             "sans-serif",
             "heavy"
-        ]
+        ],
+        "testing": {
+            "result": true
+        }
     },
     {
         "file": "ChunkyDunkOutlin.ttf",
@@ -16,6 +19,10 @@
             "sans-serif",
             "heavy",
             "outline"
-        ]
+        ],
+        "testing": {
+            "result": false,
+            "notes": "Glyphs need to all be shifted 1px right"
+        }
     }
 ]

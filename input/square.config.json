@@ -6,5 +6,8 @@
         "sans-serif",
         "decorative",
         "square"
-    ]
+    ],
+    "testing": {
+        "result": true
+    }
 }

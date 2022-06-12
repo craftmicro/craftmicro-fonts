@@ -5,7 +5,11 @@
         "name": "cweb_small",
         "labels": [
             "sans-serif"
-        ]
+        ],
+        "testing": {
+            "result": false,
+            "notes": "Capital D is underlined? Char spacing is 2px (should be 1)"
+        }
     },
     {
         "file": "CWebLarge.ttf",
@@ -13,6 +17,9 @@
         "name": "cweb_large",
         "labels": [
             "sans-serif"
-        ]
+        ],
+        "testing": {
+            "result": true
+        }
     }
 ]

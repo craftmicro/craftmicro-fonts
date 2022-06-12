@@ -6,7 +6,10 @@
         "labels": [
             "sans-serif",
             "script"
-        ]
+        ],
+        "testing": {
+            "result": true
+        }
     },
     {
         "file": "celtic-bit-thin.ttf",
@@ -16,7 +19,10 @@
             "sans-serif",
             "script",
             "thin"
-        ]
+        ],
+        "testing": {
+            "result": true
+        }
     },
     {
         "file": "celtic-bitty.ttf",
@@ -25,6 +31,9 @@
         "labels": [
             "sans-serif",
             "script"
-        ]
+        ],
+        "testing": {
+            "result": true
+        }
     }
 ]

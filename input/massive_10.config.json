@@ -7,5 +7,9 @@
         "heavy",
         "extended",
         "futuristic"
-    ]
+    ],
+    "testing": {
+        "result": true,
+        "notes": "lowercase e has issues"
+    }
 }

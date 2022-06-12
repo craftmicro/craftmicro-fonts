@@ -3,5 +3,8 @@
     "labels": [
         "serif",
         "western"
-    ]
+    ],
+    "testing": {
+        "result": true
+    }
 }

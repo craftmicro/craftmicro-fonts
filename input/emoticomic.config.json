@@ -4,5 +4,8 @@
         "sans-serif",
         "hand",
         "cartoon"
-    ]
+    ],
+    "testing": {
+        "result": true
+    }
 }

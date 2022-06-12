@@ -4,5 +4,8 @@
         "sans-serif",
         "horror",
         "hand"
-    ]
+    ],
+    "testing": {
+        "result": true
+    }
 }

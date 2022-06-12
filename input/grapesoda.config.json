@@ -5,5 +5,8 @@
         "sans-serif",
         "cartoon",
         "heavy"
-    ]
+    ],
+    "testing": {
+        "result": true
+    }
 }

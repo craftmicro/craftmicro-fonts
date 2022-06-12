@@ -1,7 +1,9 @@
 {
     "size": 16,
     "labels": [
-        "sans-serif",
-        "heavy"
-    ]
+        "sans-serif"
+    ],
+    "testing": {
+        "result": true
+    }
 }

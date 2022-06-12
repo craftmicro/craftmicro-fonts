@@ -3,6 +3,10 @@
     "name": "greenscreen",
     "labels": [
         "serif",
-        "heavy"
-    ]
+        "heavy",
+        "console"
+    ],
+    "testing": {
+        "result": true
+    }
 }

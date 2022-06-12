@@ -2,6 +2,11 @@
     "size": 8,
     "labels": [
         "serif",
-        "heavy"
-    ]
+        "heavy",
+        "console"
+    ],
+    "testing": {
+        "result": true,
+        "notes": "Contains a second range 8208-8208 that needs to be removed"
+    }
 }

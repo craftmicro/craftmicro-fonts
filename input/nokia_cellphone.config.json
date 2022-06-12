@@ -4,5 +4,8 @@
         "sans-serif",
         "condensed",
         "heavy"
-    ]
+    ],
+    "testing": {
+        "result": true
+    }
 }

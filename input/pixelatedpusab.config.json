@@ -5,5 +5,8 @@
         "cartoon",
         "fat",
         "round"
-    ]
+    ],
+    "testing": {
+        "result": true
+    }
 }

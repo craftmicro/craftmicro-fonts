@@ -6,6 +6,9 @@
         "labels": [
             "sans-serif",
             "console"
-        ]
+        ],
+        "testing": {
+            "result": true
+        }
     }
 ]

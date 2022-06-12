@@ -4,5 +4,9 @@
         "sans-serif",
         "heavy",
         "futuristic"
-    ]
+    ],
+    "testing": {
+        "result": true,
+        "notes": "Second range needs to be removed (8208-8208)"
+    }
 }

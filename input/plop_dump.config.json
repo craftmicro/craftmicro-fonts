@@ -7,7 +7,10 @@
             "sans-serif",
             "cartoon",
             "heavy"
-        ]
+        ],
+        "testing": {
+            "result": true
+        }
     },
     {
         "file": "PlopDumpOutline.ttf",
@@ -18,7 +21,11 @@
             "cartoon",
             "heavy",
             "outline"
-        ]
+        ],
+        "testing": {
+            "result": false,
+            "notes": "All glyphs need to shift 1px right"
+        }
     },
     {
         "file": "PlopDumpShadow.ttf",
@@ -29,6 +36,9 @@
             "cartoon",
             "heavy",
             "shadow"
-        ]
+        ],
+        "testing": {
+            "result": true
+        }
     }
 ]

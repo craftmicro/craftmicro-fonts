@@ -4,5 +4,8 @@
         "serif",
         "cute",
         "round"
-    ]
+    ],
+    "testing": {
+        "result": true
+    }
 }
