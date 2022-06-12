@@ -1,7 +1,5 @@
 # Craft Micro pixel/bitmap font library
 
-WARNING: fonts have not yet been tested. This repo is brand new :)
-
 The fonts in this library are all freeware fonts (freeware, OFL, public domain) that have been sourced from various places and converted to PackedBDF format.
 
 ## Browse the fonts
