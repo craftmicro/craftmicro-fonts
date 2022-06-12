@@ -196,6 +196,10 @@ for font_config_path in font_config_paths:
                 library_config['details'][output_name] = {}
             library_config['details'][output_name]['bytes'] = metrics['bytes']
 
+            # Test results
+            if 'testing' in config_item:
+                library_config['details'][output_name]['testing'] = config_item['testing']
+
             # Generate the preview image
             # To do this we call a differnet version of python (because the current script is
             # being run by ffpython)
@@ -273,6 +277,16 @@ for label in library_config['labels']:
     for font in fonts:
         readme.append('## ' + font + '\n')
         readme.append('{0:,} bytes, {1}\n'.format(library_config['details'][font]['bytes'], ', '.join(library_config['details'][font]['labels'])))
+        if 'testing' in library_config['details'][font]:
+            notes = ''
+            if 'notes' in library_config['details'][font]['testing']:
+                notes = ' with notes: ' + library_config['details'][font]['testing']['notes']
+            if library_config['details'][font]['testing']['result'] == True:
+                readme.append('_Testing passed' + notes + '_\n')
+            else:
+                readme.append('__Testing failed' + notes + '__\n')
+        else:
+             readme.append('Not tested\n')
         if os.path.exists(previews + font + '.png'):
             readme.append('[![font preview](previews/{0}.png?raw=true "{0}")]({1})\n'.format(font, '/' + output_folder + '/' + font + '.h'))
         else:
