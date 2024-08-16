@@ -96,25 +96,6 @@ def output_bit(bit):
         if output_state_linelen >= 10: output_newline()
         output_state_byte = 0
 
-# def output_bits( bits ):
-# 	global output_state_byte, output_state_bytecount, output_state_bitcount, output_state_linelen, outstr
-
-# 	bitmask = bpp_mask << (8 - bits_per_pixel - output_state_bitcount)
-
-# 	if bit:
-# 		output_state_byte |= bitmask
-# 	else:
-# 		output_state_byte &= ~bitmask
-
-# 	output_state_bitcount+=bits_per_pixel
-# 	if output_state_bitcount >= 8:
-# 		output_state_bitcount = 0
-# 		outstr += '0x'+format(output_state_byte, '02x')+','
-# 		output_state_bytecount+=1
-# 		output_state_linelen+=1
-# 		if output_state_linelen >= 10: output_newline()
-# 		output_state_byte = 0
-
 def output_number(num,bits):
     while bits > 0:
         output_bit(num & (1 << (bits-1)))
@@ -292,7 +273,7 @@ def packedbdf(input, output, name):
                                 'success': False,
                                 'error': 'BITS_PER_PIXEL not supported, at line '+str(linenum)
                             }
-                        bpp_mask = (1 << (bpp_index+1))-1
+                        bpp_mask = (1 << bits_per_pixel)-1
                         pix_per_byte = 8/bits_per_pixel
                 elif prop[0] == 'FONT_ASCENT':
                     found_ascent = True
